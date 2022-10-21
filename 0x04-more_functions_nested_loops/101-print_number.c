@@ -26,7 +26,7 @@ void print_number(int n)
 
 		while (tens >= 1)
 		{
-			digit = positve / tens;
+			digit = positive / tens;
 			_putchar(digit + '0');
 			positive = (positive - (tens * digit));
 			tens /= 10;
