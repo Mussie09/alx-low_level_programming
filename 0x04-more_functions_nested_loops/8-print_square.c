@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_squares - A function that prints a square
+ * print_square - A function that prints a square
  * @size: An input integer
  * followed by a new line
  * Return: Always 0
  */
-void print_squares(int size)
+void print_square(int size)
 {
 	int i, j;
 
