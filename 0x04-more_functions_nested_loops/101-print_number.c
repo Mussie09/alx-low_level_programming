@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_number - A function that prints an integer without long, arrays, or pointer
+ * print_number - A function prints an integer without long, arrays, or pointer
  * @n: An input integer
  * Return: Always 0
  */
