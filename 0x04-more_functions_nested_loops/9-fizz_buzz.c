@@ -2,8 +2,8 @@
 
 /**
  * main - A program that writes from 1 to 100
- * But for multiples of 3 prints Fizz instead of the number
- * And for the multiples of 5 prints Buzz
+ * but for multiples of 3 prints Fizz instead of the number
+ * and for the multiples of 5 prints Buzz
  * followed by a new line
  * Return: Always 0
  */
