@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sunistd.h>
+#include <unistd.h>
 
 /**
  * main - print the size of various ty
