@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * ste_bit - a function that sets the value of a bit at a given index to 1.
+ * set_bit - a function that sets the value of a bit at a given index to 1.
  * @n: A pointer to the bit.
  * @index: The index to set the value a t - indices start at 0.
  *
